@@ -17,3 +17,7 @@ B = 6
 C = A + B
 print(C)
 ```
+# Task list
+- [ ] Messey Method 1
+- [ ] Markov Chain 2
+- [ ] Cooley Method 3
